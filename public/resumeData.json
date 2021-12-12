@@ -1,0 +1,72 @@
+{
+  "main": {
+    "name": "Bharath Sivakumar",
+    "occupation": "Student",
+    "description": " Studying a Bachelor of Business and Bachelor of Science in Information Technology",
+    "image": "profilepic.jpg",
+    "bio": "I'm a recent university graduate, who studied a Bachelors in Business and Science in Information Technology, majoring in Management and Data Analytics",
+    "email": "bharath.sivakumar16@gmail.com",
+    "resumedownload": "https://drive.google.com/file/d/1CD3j9bIE4xlIX__8tDLYRs3I3UH-zts7/view?usp=sharing", 
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/theDataStudent",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "www.linkedin.com/in/bharath-sivakumar        ",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Bharath-Sivakumar",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "stackoverflow",
+        "url": "https://stackoverflow.com/users/13741970/bsiva",
+        "className": "fa fa-stack-overflow"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University of Technology, Sydney",
+        "degree": "Bachelor of Business and Bachelor of Science in Information Technology",
+        "graduated": "Expected 2021",
+        "description": "Majored in Data Analytics and Management"
+      }
+    ],
+    "work": [
+      {
+        "company": "Australian Taxation Office",
+        "title": "UPEP Administrative Assistant",
+        "years": "November 2021 - Present",
+        "description": "Casual Role in order to prepare for a graduate program. Working in a team to manage projects"
+      },
+      {
+        "company": "Veridooh",
+        "title": "Support Engineer",
+        "years": "August 2020 - November 2021",
+        "description": "Collecting and analysing data through a range of methods, primarily through the use of SQL queries. Ensuring product quality remained at a high level"
+      }
+    ],
+    "skills": [
+      {
+        "name": " Programming in Python"
+      },
+      {
+        "name": "Knowledge in SQL"
+      },
+      {
+        "name": "Troubleshooting Linux"
+      },
+      {
+        "name": "Troubleshooting Windows"
+      }
+    ]
+  }
+}
